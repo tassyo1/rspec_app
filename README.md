@@ -1,1 +1,1 @@
-# Primeira lição de Rspec
+# Rspec
